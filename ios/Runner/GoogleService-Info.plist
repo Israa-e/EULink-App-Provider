@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>726169264988-t6ub7e43vf19uc5240jk4n54pc6kcbvo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.726169264988-t6ub7e43vf19uc5240jk4n54pc6kcbvo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBa6_oFkD5cU-sxnoL97rQYtuG5hn2Q1pM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>726169264988</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.eulink.providers</string>
+	<key>PROJECT_ID</key>
+	<string>eulink-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eulink-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:726169264988:ios:7e5006f8e3dac6a7ea9799</string>
+</dict>
+</plist>

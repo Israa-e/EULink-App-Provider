@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "726169264988",
+    "project_id": "eulink-app",
+    "storage_bucket": "eulink-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726169264988:android:de0821b2abab7a91ea9799",
+        "android_client_info": {
+          "package_name": "app.eulink.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726169264988-7svj1eu6hmvc7jp3t39dc0s0eqo0ba07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUlTQwh0fW9Nea3aZYqOSvUiA2D9bC9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726169264988-7svj1eu6hmvc7jp3t39dc0s0eqo0ba07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726169264988-6jhu5qod6aivjevbhiu8cktsf7g947q2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.eulink.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726169264988:android:e7291527296b6432ea9799",
+        "android_client_info": {
+          "package_name": "app.eulink.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726169264988-7svj1eu6hmvc7jp3t39dc0s0eqo0ba07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUlTQwh0fW9Nea3aZYqOSvUiA2D9bC9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726169264988-7svj1eu6hmvc7jp3t39dc0s0eqo0ba07.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726169264988-6jhu5qod6aivjevbhiu8cktsf7g947q2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.eulink.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
